@@ -1,0 +1,26 @@
+---------------------------------------
+Begin Slurm Prolog: Aug-14-2023 17:52:51
+Job ID:    2764438
+User ID:   hkai3
+Account:   gts-tgartner3
+Job name:  SlurmPythonExample
+Partition: cpu-small
+QOS:       inferno
+---------------------------------------
+Result of 2 ^ 2: 4
+Result of 2 ^ 2: 4
+Result of 2 ^ 2: 4
+Result of 2 ^ 2: 4
+---------------------------------------
+Begin Slurm Epilog: Aug-14-2023 17:53:01
+Job ID:        2764438
+Array Job ID:  _4294967294
+User ID:       hkai3
+Account:       gts-tgartner3
+Job name:      SlurmPythonExample
+Resources:     cpu=4,mem=4G,node=1
+Rsrc Used:     cput=00:00:36,vmem=23448K,walltime=00:00:09,mem=0,energy_used=0
+Partition:     cpu-small
+QOS:           inferno
+Nodes:         atl1-1-03-003-9-2
+---------------------------------------
